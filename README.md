@@ -25,7 +25,7 @@ Modern Discord music bot with support for Spotify, SoundCloud, Bandcamp, Audius 
 ## 🔗 Links
 
 ### Invite
-[Coming Soon](https://discord.com/oauth2/authorize?client_id=1349501846972137562)
+[[[SixMusic](https://discord.com/oauth2/authorize?client_id=1349501846972137562)
 
 ### Support Server
 Discord: https://discord.gg/Z2CR5yKR52
