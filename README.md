@@ -1,50 +1,114 @@
 # 🎵 Six Music
 
-Modern Discord music bot with support for Spotify, SoundCloud, Bandcamp, Audius and HTTP radio stations.
+**The next generation Discord music bot.**
+
+Six Music is a modern, stable and professional Discord music bot built to deliver high-quality playback, smart search and advanced session recovery.
 
 ---
 
 ## 🚀 Features
 
-- Spotify Tracks, Albums and Playlists
-- SoundCloud Support
-- Bandcamp Support
-- Audius Support
-- HTTP Radio Support
-- Persistent Queue
-- Interactive Control Panel
-- Multi-language (PT/EN)
-- Automatic Backups
-- Server-specific Settings
-- Voice Channel Security
-- Health Monitoring
-- Statistics System
+- 🎵 Smart Search System
+- 💾 Persistent Queue
+- 💜 Favorites System
+- 📂 Saved Playlists
+- ⚡ Autoplay System
+- 🗳️ Vote Skip
+- 🔄 Lavalink Auto Recovery
+- 🎛️ Interactive Control Panel
+- 📊 Statistics System
+- 🌎 Multi-language Support (PT-BR / EN-US)
+- 🔗 Multi-source Support
 
 ---
 
-## 🔗 Links
+## 🎧 Supported Sources
 
-### Invite
-[SixMusic](https://discord.com/oauth2/authorize?client_id=1349501846972137562)
-
-### Support Server
-[Discord](https://discord.gg/Z2CR5yKR52)
-
-### Terms of Service
-[View Terms](TERMS_OF_SERVICE.md)
-
-### Privacy Policy
-[View Privacy Policy](PRIVACY_POLICY.md)
+- YouTube
+- Spotify
+- SoundCloud
+- Deezer
+- Bandcamp
+- Audius
 
 ---
 
-## 🌐 Languages
+## 📚 Commands
 
-- Português (BR)
-- English (US)
+### Playback
+- `/play`
+- `/skip`
+- `/stop`
+- `/pause`
+- `/resume`
+- `/nowplaying`
+
+### Queue
+- `/queue`
+- `/clear`
+- `/shuffle`
+- `/history`
+
+### Favorites
+- `/favorite`
+- `/favorites`
+- `/playfavorite`
+- `/removefavorite`
+
+### Playlists
+- `/saveplaylist`
+- `/loadplaylist`
+- `/playlists`
+- `/removeplaylist`
+
+### Smart Systems
+- `/autoplay`
+- `/voteskip`
+- `/loop`
+
+### Utility
+- `/stats`
+- `/invite`
+- `/support`
+- `/ping`
 
 ---
 
-## 📜 Legal
+## 🌐 Official Links
 
-By using Six Music, you agree to our Terms of Service and Privacy Policy.
+**Website:**  
+https://joao2018jkj-create.github.io/sixmusic/
+
+**Invite Bot:**  
+https://discord.com/oauth2/authorize?client_id=1349501846972137562
+
+**Support Server:**  
+https://discord.gg/Z2CR5yKR52
+
+---
+
+## 📋 Legal
+
+- [Terms of Service](terms.html)
+- [Privacy Policy](privacy.html)
+
+---
+
+## 🔥 Current Version
+
+**v1.3.0**
+
+Latest additions:
+- History system
+- Favorites system
+- Saved playlists
+- Autoplay
+- Vote Skip
+- Improved Lavalink recovery
+- Better queue persistence
+
+---
+
+## 💜 About
+
+Six Music is constantly evolving with new features, improvements and stability updates to provide the best music experience for Discord communities.
